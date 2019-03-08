@@ -129,6 +129,78 @@ def demo(config):
     model = Model(config, None, word_mat, char_mat, trainable=False, demo = True)
     demo = Demo(model, config)
 
+def interactive(config):
+    
+    print("This is Interactive Session\n")
+    f = open("result.txt","w+")
+    with open("Questions converted.txt") as fh:
+        lines = fh.read().splitlines()
+    num_lines = sum(1 for line in open('Questions converted.txt'))
+    exact_match = 0
+    total = 0
+    
+    with open(config.word_emb_file, "r") as fh:
+        word_mat = np.array(json.load(fh), dtype=np.float32)
+        with open(config.char_emb_file, "r") as fh:
+            char_mat = np.array(json.load(fh),dtype=np.float32)
+        with open(config.test_meta, "r") as fh:
+            meta = json.load(fh)
+
+        model = Model(config, None, word_mat, char_mat, trainable=False, demo = True)
+        with open(config.word_dictionary, "r") as fh:
+            word_dictionary = json.load(fh)
+        with open(config.char_dictionary, "r") as fh:
+            char_dictionary = json.load(fh)
+
+            sess_config = tf.ConfigProto(allow_soft_placement=True)
+            sess_config.gpu_options.allow_growth = True
+
+            with model.graph.as_default():
+                
+                with tf.Session(config=sess_config) as sess:
+                    sess.run(tf.global_variables_initializer())
+                    saver = tf.train.Saver()
+                    saver.restore(sess, tf.train.latest_checkpoint(config.save_dir))
+                    if config.decay < 1.0:
+                        sess.run(model.assign_vars)
+                    for i in range(0,num_lines,3):
+                        total+=1
+                        passage = lines[i]
+                        question = lines[i+1]
+                        answer = lines[i+2]
+                        query = (passage, question)
+                        response = []
+
+                        if query:
+                            context = word_tokenize(query[0].replace("''", '" ').replace("``", '" '))
+                            c,ch,q,qh = convert_to_features(config, query, word_dictionary, char_dictionary)
+                            fd = {'context:0': [c],
+                                  'question:0': [q],
+                                  'context_char:0': [ch],
+                                  'question_char:0': [qh]}
+                            yp1,yp2 = sess.run([model.yp1, model.yp2], feed_dict = fd)
+                            yp2[0] += 1
+                            response = " ".join(context[yp1[0]:yp2[0]])
+                            f.write(passage)
+                            f.write("\n")
+                            f.write(question)
+                            f.write("\n")
+                            f.write("answer: "+answer)
+                            f.write("\n")
+                            f.write("response: "+response)
+                            f.write("\n")
+                            f.write("\n")
+                            '''print("\n")
+                            print("Context: ",passage)
+                            print("Question: ",question)
+                            print("response: ",response)
+                            print("answer:",answer)
+                            '''
+                            exact_match+= exact_match_function(response,answer)
+                            print("Exact_match/total: ",exact_match,"/",total)
+    f.close()
+    print("Final_exact_match: ",100*exact_match/total)
+
 
 def test(config):
     with open(config.word_emb_file, "r") as fh:
