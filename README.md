@@ -36,7 +36,7 @@ python config.py --mode prepro
 Just like [R-Net by HKUST-KnowComp](https://github.com/HKUST-KnowComp/R-Net), hyper parameters are stored in config.py. To debug/train/test/demo, run
 
 ```bash
-python config.py --mode debug/train/test/demo
+python config.py --mode debug/train/test/demo/interactive
 ```
 
 To evaluate the model with the official code, run
