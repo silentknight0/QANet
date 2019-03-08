@@ -1,0 +1,849 @@
+﻿The city councilmen refused the demonstrators a permit because they feared violence. 
+Who feared violence?
+The city councilmen 
+The city councilmen refused the demonstrators a permit because they advocated violence. 
+Who advocated violence?
+The demonstrators 
+The trophy doesn't fit into the brown suitcase because it is too large. 
+ What is too large?
+the trophy 
+The trophy doesn't fit into the brown suitcase because it is too small. 
+ What is too small?
+brown suitcase 
+Joan made sure to thank Susan for all the help she had received. 
+ Who had received the help?
+Joan 
+Joan made sure to thank Susan for all the help she had given. 
+ Who had given the help?
+Susan 
+Paul tried to call George on the phone, but he wasn't successful. 
+ Who wasn't successful?
+Paul 
+Paul tried to call George on the phone, but he wasn't available. 
+ Who wasn't available?
+George 
+The lawyer asked the witness a question, but he was reluctant to repeat it. 
+ Who was reluctant to repeat it?
+the lawyer 
+The lawyer asked the witness a question, but he was reluctant to answer it. 
+ Who was reluctant to answer it?
+the witness 
+The delivery truck zoomed by the school bus because it was going so fast. 
+ What was going so fast?
+the delivery truck 
+The delivery truck zoomed by the school bus because it was going so slow. 
+ What was going so slow?
+the school bus 
+Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.
+ Who was the winner of the competition?
+Frank 
+Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.
+ Who was the winner of the competition?
+Bill 
+The man couldn't lift his son because he was so weak. 
+ Who was so weak?
+The man 
+The man couldn't lift his son because he was so heavy. 
+ Who was so heavy?
+The son 
+The large ball crashed right through the table because it was made of steel. 
+ What was made of steel?
+The large ball 
+The large ball crashed right through the table because it was made of styrofoam. 
+ What was made of styrofoam?
+The table 
+John couldn't see the stage with Billy in front of him because he is so short. 
+ Who is so short?
+John 
+John couldn't see the stage with Billy in front of him because he is so tall. 
+ Who is so tall?
+Billy 
+Tom threw his schoolbag down to Ray after he reached the top of the stairs. 
+Who reached the top of the stairs?
+Tom 
+Tom threw his schoolbag down to Ray after he reached the bottom of the stairs. 
+ Who reached the bottom of the stairs?
+Ray 
+Although they ran at about the same speed, Sue beat Sally because she had such a good start. 
+ Who had such a good start?
+Sue 
+Although they ran at about the same speed, Sue beat Sally because she had such a bad start. 
+ Who had such a bad start?
+Sally 
+The sculpture rolled off the shelf because it wasn't anchored. 
+ What wasn't anchored?
+The sculpture 
+The sculpture rolled off the shelf because it wasn't level. 
+ What wasn't level?
+The shelf 
+Sam's drawing was hung just above Tina's and it did look much better with another one below it. 
+Which drawing looked better with another one below it?
+Sam's drawing 
+Sam's drawing was hung just above Tina's and it did look much better with another one above it. 
+Which drawing looked better with another one above it?
+Tina's drawing 
+Anna did a lot better than her good friend Lucy on the test because she had studied so hard. 
+ Who had studied so hard?
+Anna 
+Anna did a lot worse than her good friend Lucy on the test because she had studied so hard. 
+ Who had studied so hard?
+Lucy 
+The firemen arrived after the police because they were coming from so far away. 
+Who were coming from so far away?
+The firemen 
+The firemen arrived before the police because they were coming from so far away. 
+Who were coming from so far away?
+The police 
+Frank was upset with Tom because the toaster he had bought from him didn't work. 
+Who bought the toaster?
+Frank 
+Frank was upset with Tom because the toaster he had sold him didn't work. 
+Who sold the toaster?
+Tom 
+Jim yelled at Kevin because he was so upset. 
+ Who was so upset?
+Jim 
+Jim comforted Kevin because he was so upset. 
+ Who was so upset?
+Kevin 
+The sack of potatoes had been placed above the bag of flour, so it had to be moved first. 
+ What had to be moved first?
+The sack of potatoes 
+The sack of potatoes had been placed below the bag of flour, so it had to be moved first. 
+ What had to be moved first?
+The bag of flour 
+Pete envies Martin although he is very successful. 
+ Who is very successful?
+Pete 
+Pete envies Martin because he is very successful. 
+ Who is very successful?
+Martin 
+The older students were bullying the younger ones, so we punished them.
+Who was punished?
+The older students 
+The older students were bullying the younger ones, so we rescued them.
+Who was rescued?
+The younger students 
+I poured water from the bottle into the cup until it was empty. 
+ What was empty?
+the bottle 
+I poured water from the bottle into the cup until it was full. 
+ What was full?
+the cup 
+Susan knows all about Ann's personal problems because she is nosy. 
+ Who is nosy?
+Susan 
+Susan knows all about Ann's personal problems because she is indiscreet. 
+ Who is indiscreet?
+Ann 
+Sid explained his theory to Mark but he couldn't convince him. 
+ Who couldn't convince him?
+Sid 
+Sid explained his theory to Mark but he couldn't understand him. 
+ Who couldn't understand him?
+Mark 
+Susan knew that Ann's son had been in a car accident, so she told her about it. 
+Who told her about it?
+Susan 
+Susan knew that Ann's son had been in a car accident, because she told her about it. 
+ Who told her about it?
+Ann 
+Joe's uncle can still beat him at tennis, even though he is 30 years younger. 
+ Who is 30 years younger?
+Joe 
+Joe's uncle can still beat him at tennis, even though he is 30 years older. 
+ Who is 30 years older?
+Joe's uncle 
+The painting in Mark's living room shows an oak tree. It is to the right of the bookcase. 
+What is to the right of the bookcase?
+The painting 
+The painting in Mark's living room shows an oak tree. It is to the right of a house. 
+What is to the right of the house?
+The oak tree 
+There is a gap in the wall. You can see the garden through it.
+What can you see the garden through?
+The gap 
+There is a gap in the wall. You can see the garden behind it.
+What is the garden behind?
+The wall 
+The drain is clogged with hair. It has to be cleaned. 
+What has to be cleaned?
+The drain 
+The drain is clogged with hair. It has to be removed. 
+Was has to be removed?
+The hair 
+My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out. 
+ What was short?
+The meeting 
+My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out. 
+ What was delayed?
+The train 
+There is a pillar between me and the stage, and I can't see around it.
+What can't they see around?
+The pillar 
+There is a pillar between me and the stage, and I can't see it.
+What can't they see?
+The stage 
+They broadcast an announcement, but a subway came into the station and I couldn't hear it.
+What couldn’t they hear?
+The announcement 
+They broadcast an announcement, but a subway came into the station and I couldn't hear over it.
+What couldn't they hear over?
+The subway 
+In the middle of the outdoor concert, the rain started falling, but it continued until 10. 
+ What continued until 10?
+The concert 
+In the middle of the outdoor concert, the rain started falling, and it continued until 10. 
+ What continued until 10?
+The rain 
+I used an old rag to clean the knife, and then I put it in the trash. 
+ What is in the trash?
+The rag 
+I used an old rag to clean the knife, and then I put it in the drawer. 
+ What is in the drawer?
+The knife 
+Ann asked Mary what time the library closes, because she had forgotten. 
+ Who had forgotten?
+Ann 
+Ann asked Mary what time the library closes, but she had forgotten. 
+ Who had forgotten?
+Mary 
+I took the water bottle out of the backpack so that it would be handy. 
+ What would be handy?
+The water bottle 
+I took the water bottle out of the backpack so that it would be lighter. 
+ What would be lighter?
+The backpack 
+I couldn't put the pot on the shelf because it was too tall. 
+ What was too tall?
+The pot 
+I couldn't put the pot on the shelf because it was too high. 
+ What was too high?
+The shelf 
+I'm sure that my map will show this building; it is very good. 
+ What is very good?
+The map 
+I'm sure that my map will show this building; it is very famous. 
+ What is very famous?
+The building 
+Bob paid for Charlie's college education. He is very generous. 
+Who is very generous?
+Bob 
+Bob paid for Charlie's college education. He is very grateful. 
+Who is very grateful?
+Charlie 
+Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt. 
+ Who is very hurt?
+Bob 
+Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful. 
+Who is very ungrateful?
+Charlie 
+Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won. 
+ Who would have won?
+Bob 
+Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost. 
+ Who would have lost?
+Adam 
+Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time. 
+ Who would be gone by this time?
+Adam 
+Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time. 
+ Who would be here by this time?
+Bob 
+If the con artist has succeeded in fooling Sam, he would have gotten a lot of money. 
+ Who would have gotten a lot of money?
+The con artist 
+If the con artist has succeeded in fooling Sam, he would have lost a lot of money. 
+ Who would have lost a lot of money?
+Sam 
+It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot. 
+What was hot?
+The dog 
+It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler. 
+What was cooler?
+The spot under the tree 
+The cat was lying by the mouse hole waiting for the mouse, but it was too impatient. 
+ What was too impatient?
+The cat 
+The cat was lying by the mouse hole waiting for the mouse, but it was too cautious. 
+ What was too cautious?
+The mouse 
+Anne gave birth to a daughter last month. She is a very charming woman. 
+Who is a very charming woman?
+Anne 
+Anne gave birth to a daughter last month. She is a very charming baby. 
+Who is a very charming baby?
+Anne's daughter 
+Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely. 
+ Who was behaving so strangely?
+Alice
+Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely. 
+ Who was behaving so strangely?
+Alice's daughter 
+I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy. 
+Who was unhappy?
+Jim 
+I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy. 
+Who was unhappy?
+the guy in uniform 
+The fish ate the worm. It was hungry. 
+Was was hungry?
+The fish 
+The fish ate the worm. It was tasty. 
+What was tasty?
+The worm 
+I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in. 
+What couldn’t they get in?
+The key 
+I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out. 
+What couldn’t they get out?
+The chewing gum 
+The dog chased the cat, which ran up a tree. It waited at the bottom. 
+What waited at the bottom?
+The dog 
+The dog chased the cat, which ran up a tree. It waited at the top. 
+What waited at the top?
+The cat 
+In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed. 
+What needs to be removed?
+The tree 
+In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired. 
+ What needs to be repaired?
+The roof 
+The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. 
+Who was taken to the police station?
+The customer 
+The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. 
+Who was taken to the hospital?
+The teller 
+John was doing research in the library when he heard a man humming and whistling. He was very annoyed. 
+Who was very annoyed?
+John 
+John was doing research in the library when he heard a man humming and whistling. He was very annoying. 
+Who was annoying?
+The man 
+John was jogging through the park when he saw a man juggling watermelons. He was very impressed. 
+Who was impressed?
+John 
+John was jogging through the park when he saw a man juggling watermelons. He was very impressive. 
+Who was impressive?
+The juggler 
+Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill. 
+Who was ill?
+Bob 
+Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned. 
+Who was very concerned?
+Carl 
+Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. 
+Who are the fifteen year olds?
+Sam and Amy 
+Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. 
+Who are the snobs?
+Amy's parents 
+Mark told Pete many lies about himself, which Pete included in his book. He should have been more truthful. 
+Who should have been more truthful?
+Mark 
+Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical. 
+Who should have been more skeptical?
+Pete 
+Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday. 
+Where is Joe moving out of?
+The old house 
+Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday. 
+Where is joe moving into?
+The new house 
+Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well. 
+Who was gripped?
+People 
+Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well. 
+What is popular?
+Paul's books 
+Mary took out her flute and played one of her favorite pieces. She has had it since she was a child. 
+What did she have since she was a child?
+The flute 
+Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child. 
+What has she loved since she was a child?
+The piece 
+Sam pulled up a chair to the piano, but it was broken, so he had to stand instead. 
+ What was broken?
+The chair 
+Sam pulled up a chair to the piano, but it was broken, so he had to sing instead. 
+ What was broken?
+The piano 
+Since it was raining, I carried the newspaper in my backpack to keep it dry. 
+What was kept dry?
+The newspaper 
+Since it was raining, I carried the newspaper over my backpack to keep it dry. 
+What was kept dry?
+The backpack 
+Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work. 
+What did she read?
+The book 
+Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work. 
+What did she write?
+The article 
+This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down. 
+What did the tide knock down?
+The sand castle 
+This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down. 
+What did the wind knock down?
+The flag 
+Jane knocked on Susan's door, but there was no answer. She was disappointed. 
+Who was disappointed?
+Jane 
+Jane knocked on Susan's door, but there was no answer. She was out. 
+Who was out?
+Susan 
+Jane knocked on the door, and Susan answered it. She invited her to come out. 
+Who gave the invitation to come out?
+Jane 
+Jane knocked on the door, and Susan answered it. She invited her to come in. 
+Who gave the invitation to come in?
+Susan 
+Sam took French classes from Adam, because he was eager to speak it fluently. 
+ Who was eager to speak it fluently?
+Sam 
+Sam took French classes from Adam, because he was known to speak it fluently. 
+ Who was known to speak it fluently?
+Adam 
+The path to the lake was blocked, so we couldn't use it.
+What couldn't they use?
+The path 
+The path to the lake was blocked, so we couldn't reach it.
+What couldn’t they reach?
+The lake 
+The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out. 
+ What was out?
+The sun 
+The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone. 
+ What was gone?
+The cloud 
+We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim. 
+ What was a safer place to swim?
+The lake 
+We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim. 
+ What was a dangerous place to swim?
+The ocean beach 
+Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. 
+Who ended up looking more like golfers?
+The shepherds 
+Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs. 
+Who ended up looking more like dogs?
+The sheep 
+Mary tucked her daughter Anne into bed, so that she could work. 
+ Who could work?
+Mary 
+Mary tucked her daughter Anne into bed, so that she could sleep. 
+ Who could sleep?
+Mary's daughter 
+Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska. 
+Who were not prepared for the cold in Alaska?
+Fred and Alice 
+Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska. 
+What was not enough for the cold in Alaska?
+coats 
+Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years. 
+ Who had been travelling for five years?
+Thomson 
+Thomson visited Cooper's grave in 1765. At that date he had been dead for five years. 
+ Who had been dead for five years?
+Cooper 
+Jackson was greatly influenced by Arnold, though he lived two centuries later. 
+ Who lived two centuries later?
+Jackson 
+Jackson was greatly influenced by Arnold, though he lived two centuries earlier. 
+ Who lived two centuries earlier?
+Arnold 
+I can't cut that tree down with that axe; it is too thick. 
+ What is too thick?
+The tree 
+I can't cut that tree down with that axe; it is too small. 
+ What is too small?
+The axe 
+The foxes are getting in at night and attacking the chickens. I shall have to kill them.
+What must be killed?
+The foxes 
+The foxes are getting in at night and attacking the chickens. I shall have to guard them.
+What must be guarded?
+The chickens 
+The foxes are getting in at night and attacking the chickens. They have gotten very bold. 
+What has grown bold?
+The foxes 
+The foxes are getting in at night and attacking the chickens. They have gotten very nervous. 
+What is nervous?
+The chickens 
+Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped. 
+What did open?
+His eyes 
+Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped. 
+What did he lower?
+His hands 
+The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce. 
+What was too hard to pronounce?
+Terpsichore 
+The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce. 
+What was easier to pronounce?
+Tina 
+Fred watched TV while George went out to buy groceries. After an hour he got up. 
+ Who got up?
+Fred 
+Fred watched TV while George went out to buy groceries. After an hour he got back. 
+ Who got back?
+George 
+Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on. 
+What did he turn on?
+The dishwasher 
+Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off. 
+What did he turn off?
+The TV 
+Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man. 
+Who is a remarkable man?
+Fred 
+Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man. 
+Who was a remarkable man?
+My great-grandfather 
+Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old. 
+ Who was twelve years old?
+Fred 
+Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old. 
+ Who was twelve months old?
+My father 
+In July, Kamchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks. 
+Who were defeated within weeks?
+Kamchatka 
+In July, Kamchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were victorious within weeks. 
+Who were victorious within weeks?
+Yakutsk 
+Look! There is a minnow swimming right below that duck! It had better get away to safety fast! 
+What had better get away to safety?
+The minnow 
+Look! There is a shark swimming right below that duck! It had better get away to safety fast! 
+What had better get away to safety?
+The duck 
+Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks. 
+Who hunted for evidence?
+Archaeologists 
+Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks. 
+Who hunted for deer?
+Prehistoric humans 
+The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago. 
+Who began two years ago?
+The scientists 
+The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago. 
+What appeared two years ago?
+The fish 
+The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time. 
+Who was persistent?
+The journalists 
+The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time. 
+Who was cooperative?
+The stars 
+The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood. 
+Who was trying to stop the drug trade?
+The police 
+The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood. 
+Who was trying to run the drug trade?
+The gang members 
+I put the cake away in the refrigerator. It has a lot of butter in it. 
+What has a lot of butter?
+The cake 
+I put the cake away in the refrigerator. It has a lot of leftovers in it. 
+What has a lot of leftovers?
+The refrigerator 
+Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better. 
+What should be better?
+The ankles 
+Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary. 
+What should be unnecessary?
+The crutches 
+When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority. 
+Who was in the minority?
+The sponsors 
+When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. 
+Who was in the majority?
+The opponents 
+Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of them.
+What should they make more of?
+The oatmeal cookies 
+Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them.
+What should they make fewer of?
+The chocolate chip cookies 
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them.
+Enough of what?
+copies of the newsletter 
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them.
+Too many of what?
+chairs 
+I stuck a pin through a carrot. When I pulled the pin out, it left a hole. 
+ What left a hole?
+The pin 
+I stuck a pin through a carrot. When I pulled the pin out, it had a hole. 
+ What had a hole?
+The carrot 
+I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee. 
+ What got full of coffee?
+The pen 
+I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink. 
+ What got full of ink?
+The coffee 
+Steve follows Fred's example in everything. He admires him hugely. 
+Who is the admirer?
+Steve 
+Steve follows Fred's example in everything. He influences him hugely. 
+Who is the influencer?
+Fred 
+The table won't fit through the doorway because it is too wide. 
+ What is too wide?
+The table 
+The table won't fit through the doorway because it is too narrow. 
+ What is too narrow?
+The doorway 
+Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her. 
+ What looks dowdy on her?
+The sweater 
+Grace was happy to trade me her sweater for my jacket. She thinks it looks great on her. 
+ What looks great on her?
+The jacket 
+John hired Bill to take care of him.
+Who is being taken care of?
+John 
+John hired himself out to Bill to take care of him.
+Who is being taken care of?
+Bill 
+John promised Bill to leave, so an hour later he left. 
+ Who left?
+John 
+John ordered Bill to leave, so an hour later he left. 
+ Who left?
+Bill 
+Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research. 
+Who faced  the difficulties?
+Goodman 
+Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood. 
+Who faced the difficulties?
+Xenophanes 
+Emma's mother had died long ago, and her education had been managed by an excellent woman as governess. 
+Who had a governess?
+Emma 
+Emma's mother had died long ago, and her place had been taken by an excellent woman as governess. 
+Who was replaced by a governess?
+Emma's mother 
+Jane knocked on Susan's door but she did not get an answer. 
+ Who did not get an answer?
+Jane 
+Jane knocked on Susan's door but she did not answer. 
+ Who did not answer?
+Susan 
+Joe paid the detective after he received the final report on the case. 
+Who received the report?
+Joe 
+Joe paid the detective after he delivered the final report on the case. 
+Who delivered the report?
+the detective 
+Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten. 
+ Who stopped and counted to ten?
+Beth 
+Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized. 
+ Who stopped and apologized?
+Sally 
+Jim signaled the barman and gestured toward his empty glass 
+Who had an empty glass?
+Jim 
+Jim signaled the barman and gestured toward his bathroom key. 
+Who had the bathroom key?
+The barman 
+Dan took the rear seat while Bill claimed the front because his "Dibs!" was slow. 
+Whose "dibs!" was slow?
+Dan 
+Dan took the rear seat while Bill claimed the front because his "Dibs!" was quicker. 
+Whose "dibs!" was quicker?
+Bill 
+Tom said "Check" to Ralph as he moved his bishop. 
+ Who moved his bishop?
+Tom 
+Tom said "Check" to Ralph as he took his bishop. 
+ Who took his bishop?
+Ralph 
+As Andrea in the crop duster passed over Susan, she could see the landing strip. 
+ Who could see the landing strip?
+Andrea 
+As Andrea in the crop duster passed over Susan, she could see the landing gear. 
+ Who could see the landing gear?
+Susan 
+Tom gave Ralph a lift to school so he wouldn't have to drive alone. 
+ Who wouldn't have to drive alone?
+Tom 
+Tom gave Ralph a lift to school so he wouldn't have to walk. 
+ Who wouldn't have to walk?
+Ralph 
+Bill passed the half-empty plate to John because he was full. 
+ Who was full?
+Bill 
+Bill passed the half-empty plate to John because he was hungry. 
+ Who was hungry?
+John 
+Bill passed the gameboy to John because his turn was over. 
+Whose turn was over?
+Bill 
+Bill passed the gameboy to John because his turn was next. 
+Whose turn was next?
+John 
+The man lifted the boy onto his shoulders. 
+Whose shoulders?
+The man 
+The man lifted the boy onto his bunk bed. 
+Whose bunk bed?
+The boy 
+Stretching her back, the woman smiled at the girl. 
+Who stretched?
+The woman 
+Patting her back, the woman smiled at the girl. 
+Whose back was patted?
+The girl 
+Billy cried because Toby wouldn't accept his toy. 
+Whose toy?
+Billy 
+Billy cried because Toby wouldn't share his toy. 
+Whose toy?
+Toby 
+Lily spoke to Donna, breaking her silence. 
+Whose silence?
+Lily 
+Lily spoke to Donna, breaking her concentration. 
+Whose concentration?
+Donna 
+When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look. 
+Who did father console?
+Tommy 
+When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look. 
+Who did father admonish?
+Timmy 
+As Ollie carried Tommy up the long winding steps, his legs ached. 
+Whose legs ached?
+Ollie 
+As Ollie carried Tommy up the long winding steps, his legs dangled. 
+Whose legs dangled?
+Tommy 
+The father carried the sleeping boy in his arms 
+Whose arms?
+The father 
+The father carried the sleeping boy in his bassinet. 
+Whose bassinet?
+The boy 
+The woman held the girl against her chest 
+Whose chest?
+The woman 
+The woman held the girl against her will. 
+Whose will?
+The girl 
+Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it. 
+Who was furious?
+Pam's parents 
+Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it. 
+Who was embarrassed?
+Pam and Paul 
+Dr. Adams informed Kate that she had retired and presented several options for future treatment. 
+ Who had retired?
+Dr. Adams 
+Dr. Adams informed Kate that she had cancer and presented several options for future treatment. 
+ Who had cancer?
+Kate 
+Dan had to stop Bill from toying with the injured bird. He is very compassionate. 
+Who is very compassionate?
+Dan 
+Dan had to stop Bill from toying with the injured bird. He is very cruel. 
+Who is very cruel?
+Bill 
+George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it. 
+Who was eager to see the play?
+George 
+George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it. 
+Who was eager to see the play?
+Eric 
+George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it. 
+Who was not eager to see the play?
+George 
+Jane gave Joan candy because she wasn't hungry. 
+ Who wasn't hungry?
+Jane 
+Jane gave Joan candy because she was hungry. 
+ Who was hungry?
+Joan 
+I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs. 
+What came out looking more like light bulbs?
+lemons 
+I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles. 
+What came out looking more like telephone poles?
+lemon trees 
+James asked Robert for a favor but he was refused. 
+ Who was refused?
+James 
+James asked Robert for a favor but he refused. 
+ Who refused?
+Robert 
+Kirilov ceded the presidency to Shatov because he was less popular. 
+ Who was less popular?
+Kirilov 
+Kirilov ceded the presidency to Shatov because he was more popular. 
+ Who was more popular?
+Shatov 
+Emma did not pass the ball to Janie although she saw that she was open. 
+Who saw the other?
+Emma 
+Emma did not pass the ball to Janie although she was open. 
+ Who was open?
+Janie 
+I put the butterfly wing on the table and it broke. 
+ What broke?
+The butterfly wing 
+I put the heavy book on the table and it broke. 
+ What broke?
+The table 
+Madonna fired her trainer because she couldn't stand her boyfriend. 
+ Who couldn't stand her boyfriend?
+Madonna 
+Madonna fired her trainer because she slept with her boyfriend. 
+ Who slept with her boyfriend?
+The trainer 
+Madonna fired her trainer because she slept with her boyfriend. 
+ Who slept with her boyfriend?
+Madonna 
+Madonna fired her trainer because she couldn't stand her boyfriend. 
+ Who couldn't stand her boyfriend?
+The trainer 
+Carol believed that Rebecca suspected that she had stolen the watch. 
+ Who had stolen the watch?
+Carol 
+Carol believed that Rebecca regretted that she had stolen the watch. 
+ Who had stolen the watch?
+Rebecca 
+This book introduced Shakespeare to Ovid; it was a major influence on his writing. 
+ What was a major influence on his writing?
+Shakespeare 
+This book introduced Shakespeare to Goethe; it was a major influence on his writing. 
+ What was a major influence on his writing?
+Goethe 
+This book introduced Shakespeare to Ovid; it was a fine selection of his writing. 
+ What was a fine selection of his writing?
+Ovid 
+This book introduced Shakespeare to Goethe; it was a fine selection of his writing. 
+ What was a fine selection of his writing?
+Shakespeare 
+Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly. 
+ Who always has good luck?
+Alice 
+Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly. 
+ Who always wears a red turban?
+Jade 
+During a game of tag, Ethan chased Luke because he was "it". 
+ Who was "it"?
+Ethan 
+During a game of tag, Ethan ran from Luke because he was "it". 
+ Who was "it"?
+Luke 
+At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid. 
+Who was so stupid?
+the judges 
+At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced. 
+Who was so advanced?
+the chatbots
