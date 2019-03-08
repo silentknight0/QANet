@@ -135,6 +135,8 @@ def main(_):
         test(config)
     elif config.mode == "demo":
         demo(config)
+    elif config.mode == "interactive":
+        interactive(config)
     else:
         print("Unknown mode")
         exit(0)
